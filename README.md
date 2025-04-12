@@ -1,5 +1,16 @@
-###🤖 Gemini Chatbot with Streamlit
+# 🤖 Gemini Chatbot with Streamlit
 
-This is a simple chatbot built using Google's Gemini 1.5 Pro API and Streamlit. The chatbot maintains a conversation history and allows users to interact with a generative AI model directly from the web interface.
+This project is a simple chatbot interface built using **Google's Gemini 1.5 Pro API** and **Streamlit**. It allows users to have interactive conversations with the chatbot, with full support for chat history using session state.
 
-3
+
+## 🧠 Features
+
+- 💬 Conversational chatbot using Gemini 1.5 Pro
+- 🧠 Maintains conversation history
+- ⚡ Built with a fast and lightweight Streamlit interface
+- 🔐 API key-based authentication
+
+---
+
+
+
